@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Daily Affirmations</string>
+    <string-array name="affirmations">
+        <item>You are capable of amazing things.</item>
+        <item>Believe in yourself and all that you are.</item>
+        <item>Every day is a fresh start.</item>
+        <item>You are stronger than you think.</item>
+        <item>Your potential is limitless.</item>
+        <item>You have the power to create change.</item>
+    </string-array>
+</resources>
